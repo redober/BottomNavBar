@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavBar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">HOME</string>
+    <string name="search_fragment">SEARCH</string>
+</resources>
